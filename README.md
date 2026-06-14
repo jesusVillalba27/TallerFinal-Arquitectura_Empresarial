@@ -18,7 +18,7 @@ Para ello, se adopta un enfoque basado en computación en la nube bajo el modelo
 
 ---
 
-# 2. Entregable A: Catálogo Tecnológico Exhaustivo
+# 2.  Catálogo Tecnológico Exhaustivo
 
 Este catálogo identifica, clasifica y justifica cada componente de hardware, software e infraestructura cloud requeridos para soportar las operaciones del ecosistema digital.
 
@@ -37,7 +37,7 @@ Este catálogo identifica, clasifica y justifica cada componente de hardware, so
 
 ---
 
-# 3. Entregable B: Diagrama Tecnológico de Flujo de Datos
+# 3.  Diagrama Tecnológico de Flujo de Datos
 
 ```mermaid
 graph TD
@@ -92,7 +92,7 @@ BE --> NOT
 
 ---
 
-# 4. Entregable C: Diagrama de Despliegue de Infraestructura Cloud (AWS)
+# 4.  Diagrama de Despliegue de Infraestructura Cloud (AWS)
 
 ```mermaid
 graph TB
@@ -160,7 +160,7 @@ BE --> MSG
 
 ---
 
-# 5. Entregable D: Justificación de las Decisiones Tecnológicas
+# 5. Justificación de las Decisiones Tecnológicas
 
 ## 1. Elasticidad frente a la Estacionalidad
 
